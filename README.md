@@ -7,6 +7,8 @@ data, preregistration ledger, and paper source for the note [*"The
 Multiplication Table Near Perfect Squares: Concentration, Typicality, and
 the Slow Approach to Ford's Exponent"*](https://zenodo.org/records/22286360) (Ross, M. M., 2026).
 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1354181135-blue.svg)](https://doi.org/10.5281/zenodo.22287094)
+
 ## Findings
 
 The quantity ρ(N, c) is the density of distinct N × N-table entries in the
