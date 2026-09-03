@@ -1,0 +1,13 @@
+# Python >= 3.10.
+#
+# Platform requirement: campaigns A and A-prime (campaign_a.py, campaign_a2.py) 
+# require numpy.longdouble to be genuine # 80-bit extended precision. 
+# Windows-native numpy aliases longdouble to # float64 and the precision guard
+# aborts. Run under Linux or WSL on x86-64.
+#
+# gmpy2 is required by t1_exact_mc.py (exact-integer Kalai tier).
+# matplotlib is required by analyze_mc.py only.
+
+numpy>=1.24
+matplotlib>=3.7
+gmpy2>=2.1
