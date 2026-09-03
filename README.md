@@ -53,7 +53,7 @@ the Kalai tier. See the note, Section 2.3.
 Reports: `results/FINAL_report.md` is the campaign chronicle and full
 preregistration ledger, including every refuted prediction and both
 instrument errata. `results/RN_census_report.md` and
-`gap_census_report.md` are the exact-height censuses.
+`results/gap_census_report.md` are the exact-height censuses.
 
 ## Reproduction guide
 
