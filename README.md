@@ -3,9 +3,9 @@
 Computational examination of the Erdős–Tenenbaum–Ford constant
 δ = 1 − (1 + log log 2)/log 2 = 0.086071…, localized to square-gaps of the
 N × N multiplication table. This repository contains the complete code,
-data, preregistration ledger, and paper source for the note [*"The
+data, preregistration ledger, and paper source for the note [*The
 Multiplication Table Near Perfect Squares: Concentration, Typicality, and
-the Slow Approach to Ford's Exponent"*](https://zenodo.org/records/22286360) (Ross, M. M., 2026).
+the Slow Approach to Ford's Exponent*](https://zenodo.org/records/22286360) (Ross, M. M., 2026).
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.1354181135-blue.svg)](https://doi.org/10.5281/zenodo.22287094)
 
