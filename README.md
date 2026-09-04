@@ -3,7 +3,7 @@
 Computational examination of the Erdős–Tenenbaum–Ford constant
 δ = 1 − (1 + log log 2)/log 2 = 0.086071…, localized to square-gaps of the
 N × N multiplication table. This repository contains the complete code,
-data, preregistration ledger, and paper source for the note [*The
+data, and preregistration ledger for the paper [*The
 Multiplication Table Near Perfect Squares: Concentration, Typicality, and
 the Slow Approach to Ford's Exponent*](https://zenodo.org/records/22286360) (Ross, M. M., 2026).
 
@@ -47,7 +47,6 @@ the Kalai tier. See the note, Section 2.3.
 ## Repository map
 
     README.md               this file
-    paper/                  note.tex, note.pdf, and the figures it embeds
     code/                   all campaign scripts (inventory below)
     results/                all data tiers and campaign reports
     figures/                all charts, including superseded ones
