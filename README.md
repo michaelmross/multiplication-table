@@ -107,4 +107,4 @@ replacements live in `results/mc_tier3.csv`.
 ## Citation and license
 
 Code: MIT. Note and data: CC-BY 4.0. If you use this work, cite the
-Zenodo record (DOI:10.5281/zenodo.22286360).
+Zenodo records (DOI:10.5281/zenodo.22287094) and (DOI:10.5281/zenodo.22286360).
