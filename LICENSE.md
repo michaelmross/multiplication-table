@@ -1,6 +1,5 @@
-===============================================================================
-CODE LICENSE: MIT License
-===============================================================================
+***
+## CODE LICENSE: MIT License
 
 Applies to the contents of the code/ directory.
 
@@ -26,9 +25,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-===============================================================================
-DOCUMENTATION, FIGURES & DATA LICENSE: CC BY 4.0
-===============================================================================
+***
+## DOCUMENTATION, FIGURES & DATA LICENSE: CC BY 4.0
 
 Applies to everything outside the code/ directory, including the reports,
 the note and its source, the figures/ directory, and the data files in
